@@ -1,2 +1,4 @@
-# csPortfolio
-This project is a website developed by myself using HTML, CSS, JS, JQuery, and a little PHP.
+# Computer Sci Portfolio
+This project is a website developed by myself, no drag and drop just pure code. This site is where I showcase
+most of mys school and side projects.
+
